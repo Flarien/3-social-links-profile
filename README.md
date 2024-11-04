@@ -35,14 +35,14 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### What I learned
 
-I started this project to revisit and practice the foundations of web development. Through this challenge, I reviewed essential skills, including HTML structure, CSS styling, and class management, while reinforcing my understanding of the basics.
+I started this project to revisit and practice the foundations of web development. Through this challenge, I reviewed essential skills, including HTML structure, CSS styling, and class management, while reinforcing my understanding of the basics. I also worked on improving responsiveness by adding media queries to ensure the design adapts well across different screen sizes.
 
 ### Continued development
 
 I plan to continue practicing consistently, gradually tackling more complex projects to expand my skills and improve my abilities. I’ll keep challenging myself with progressively more advanced tasks and updating my progress here.
 
 ### Useful resources
-
+I used the free version of Figma as a reference tool, working with the JPG image provided by Frontend Mentor as a base, which helped me accurately apply measurements and layout details from the original design.
 
 ## Author
 
